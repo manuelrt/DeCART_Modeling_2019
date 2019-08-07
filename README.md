@@ -1,6 +1,6 @@
 # DeCART_Modeling_2019
 
-Notes for Day 3 Framework of Causal Inference Added
+Notes for Day 3 Added
 
 Tetative Schedule for Day 3 (Aug 9)
 
