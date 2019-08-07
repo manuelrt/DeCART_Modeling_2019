@@ -3,6 +3,7 @@
 Notes for Day 3 Framework of Causal Inference Added
 
 Tetative Schedule for Day 3 (Aug 9)
+
 | Time           | Focus         |
 | -------------  | ------------- |
 | 09:00 - 09:10  | Introduction  |
