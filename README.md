@@ -2,7 +2,7 @@
 
 Notes for Day 3 added
 
-Day 3: Counterfactual Models
+## Day 3: Counterfactual Models
 
 Tetative Schedule for Day 3 (Aug 9)
 
