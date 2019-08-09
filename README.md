@@ -1,6 +1,8 @@
 # DeCART_Modeling_2019
 
-Notes for Day 3 Added
+Notes for Day 3 added
+
+## Day 3: Counterfactual Models
 
 Tetative Schedule for Day 3 (Aug 9)
 
